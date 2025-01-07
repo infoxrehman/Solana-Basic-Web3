@@ -3,7 +3,7 @@ import SolanaWalletTransactions from './SolanaWalletTransactions';
 const App = () => {
   return (
     <div>
-      <SolanaWalletTransactions walletAddress="" /> 
+      <SolanaWalletTransactions /> 
     </div>
   );  
 };
